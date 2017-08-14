@@ -1,28 +1,18 @@
+/**This is a Demo**/
 #include "mCalCorev2.h"
 #include <iostream>
-using namespace std;
-#include <fstream>
-
-#define PATH "F:\\me.txt"
 
 int main()
 {
+	//Creat Object
 	mCalCorev2 cal;
-	double r = 0;
-	ifstream fi(PATH);
-
-	char buf[300];
-	fi >> buf;
-	cal.cal(buf,r);
-	ofstream fo(PATH);
-	if(cal.errInfo() != "")
-	{
-		fo << cal.errInfo() << endl;
-		return 1;
-	}
-	else
-	{
-		fo << r << endl;
-	}
+	double ans = 0;
+	
+	//use cal Method
+	cal.cal("1+2*(3+4)",ans);
+	
+	//print answer
+	std::cout << ans;
+	
 	return 0;
 }
