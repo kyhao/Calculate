@@ -2,19 +2,16 @@
 Can calculate Basic and some advance calculations.
 
 ## ABOUT OBJECT:
-mCalCore Object include:<br>
+mCalCore Object:br<>
+operater:<br>
 `+` `-` `/` `*` `^` `()`
+function:<br>
 
-mCalCorev2 Object include:<br>
 
-`(-x)`
-`!(`
-`sin(`
-`cos(`
-`tan(`
-`ln(`
-`log(`
-`sqrt(`
+mCalCorev2 Object:
+operater:<br>
+`(-x)` `!(` `sin(` `cos(` `tan(` `ln(` `log(` `sqrt(`
+function:<br>
 
 ## ABOUT ERROR:
 	ERROR_1:lose bracket"
