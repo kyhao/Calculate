@@ -23,8 +23,11 @@ Include Two Object:
 `mCalCorev2` is `mCalCore`'s Child<br>
 you can use `mCalCorev2` Object to calculate Basic calculations.<br>
 
-## ABOUT ERROR:
-	ERROR_1:lose bracket"
-	ERROR_2:illegal input"
-	ERROR_3:symbol error"
-	ERROR_X:UNKNOW ERROR"
+## ABOUT ERROR LIST:
+	ERROR_1:lose bracket
+	ERROR_2:illegal input
+	ERROR_3:symbol error
+	ERROR_X:UNKNOW ERROR
+
+## SOME PORBLEM
+`^` has same priority like `*` `/`
