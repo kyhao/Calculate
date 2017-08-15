@@ -17,7 +17,7 @@ Include Two Object:
 #### operater:<br>
 `(-x)` `!(` `sin(` `cos(` `tan(` `ln(` `log(` `sqrt(` <br>
 #### function:<br>
-`int calculate(_IN_ const char *buf, _OUT_ double &res);` <br>
+`int cal(_IN_ const char *buf, _OUT_ double &res);` <br>
 
 ## ABOUT ERROR:
 	ERROR_1:lose bracket"
