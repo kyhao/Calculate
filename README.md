@@ -1,23 +1,22 @@
 # Calculate
 Can calculate Basic and some advance calculations.
 
+##ABOUT OBJECT:
+mCalCore Object include:<br>
+`+` `-` `/` `*` `^` `()`
 
-mCalCore Object include:
-+ - / * ^ ()
+mCalCorev2 Object include:<br>
 
-mCalCorev2 Object include:
+`(-x)`
+`!(`
+`sin(`
+`cos(`
+`tan(`
+`ln(`
+`log(`
+`sqrt(`
 
-(-x)
-!(
-sin(
-cos(
-tan(
-ln(
-log(
-sqrt(
-
-
-ABOUT ERROR:
+##ABOUT ERROR:
 	ERROR_1:lose bracket"
 	ERROR_2:illegal input"
 	ERROR_3:symbol error"
