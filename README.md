@@ -1,5 +1,5 @@
 # Calculate
-Can calculate Simple and some advance .
+Can calculate Basic and some advance calculations.
 
 
 + - / * ^ ()
