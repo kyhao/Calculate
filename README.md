@@ -2,15 +2,16 @@
 Can calculate Basic and some advance calculations.
 
 ## ABOUT OBJECT:
-mCalCore Object:br<>
+Include Two Object:
+#### 1. `mCalCore` Object:<br>
 operater:<br>
-`+` `-` `/` `*` `^` `()`
+`+` `-` `/` `*` `^` `()` <br>
 function:<br>
 
 
-mCalCorev2 Object:
+#### 2. `mCalCorev2` Object:<br>
 operater:<br>
-`(-x)` `!(` `sin(` `cos(` `tan(` `ln(` `log(` `sqrt(`
+`(-x)` `!(` `sin(` `cos(` `tan(` `ln(` `log(` `sqrt(` <br>
 function:<br>
 
 ## ABOUT ERROR:
