@@ -15,7 +15,7 @@ Include Two Object:
 #### include file:<br>
 `mCalCore.h` `mCalCore.cpp` `mCalCorev2.h` `mCalCorev2.cpp`<br>
 #### operater:<br>
-`(-x)` `!(` `sin(` `cos(` `tan(` `ln(` `log(` `sqrt(` <br>
+`(-x)` `!()` `sin()` `cos()` `tan()` `ln()` `log()` `sqrt()` `Pi` `e`<br>
 #### function:<br>
 `int cal(_IN_ const char *buf, _OUT_ double &res);` <br>
 
